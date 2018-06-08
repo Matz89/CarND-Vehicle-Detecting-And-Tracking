@@ -1,4 +1,3 @@
-I am extremely interested and motivated to work with the electrical grid; and would love to see the smart grid and micro grids be in use across Canada
 ## Report
 
 
