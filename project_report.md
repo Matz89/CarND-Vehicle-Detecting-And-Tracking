@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./figures/classes.png
 [image2]: ./figures/hog_extract.png
-[image3]: ./figures/bounding_boxes.png
+[image3]: ./figures/boundingboxes.png
 [image4]: ./figures/pipeline.png
 [image5]: ./figures/heatmaps.png
 [video1]: ./project_video.mp4
